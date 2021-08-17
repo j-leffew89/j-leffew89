@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Jesse 👋
 
-<!--
-**j-leffew89/j-leffew89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Husband, Father and Developer!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working with Spring
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m open to collaborate with any developer 
+- 🥅 2021 Goals: Continue to learn and become a better developer
+- 📫 How to reach me: <a href="jesse.leffew89@gmail.com">Email Me</a>, <a href="https://www.linkedin.com/in/jesse-leffew/">LinkedIn</a>
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love animal and spending time with my family
+
+
