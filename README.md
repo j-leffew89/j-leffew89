@@ -11,5 +11,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love animal and spending time with my family
 
-![Jesse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j-leffew89&show_icons=true&theme=radical)
+![Jesse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j-leffew89&show_icons=true&theme=dark)
 
