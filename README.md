@@ -13,3 +13,6 @@
 
 ![Jesse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j-leffew89&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-leffew89&layout=compact)](https://github.com/j-leffew89/github-readme-stats)
+
+
