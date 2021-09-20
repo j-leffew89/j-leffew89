@@ -3,7 +3,7 @@
 ## I'm a Husband, Father and Developer!
 
 
-- 🔭 I’m currently working with Spring
+- 🔭 I’m currently working on my CapStone
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m open to collaborate with any developer 
 - 🥅 2021 Goals: Continue to learn and become a better developer
